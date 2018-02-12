@@ -6,4 +6,4 @@ Hi! My name's Ahead, and you're looking at my GitHub for content I've created fo
 ## What?
 I upload Add-Ons and other modifications to the game here for anyone to poke their nose into.
 
-You can read more about this repository [here.](./wiki)
+You can read more about this repository [here.](/wiki)
