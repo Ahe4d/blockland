@@ -1,0 +1,5 @@
+Title: Toggle Suicide
+Author: Ahead
+Allows admins to toggle on and off player suicide
+
+Created on December 11th, 2015
