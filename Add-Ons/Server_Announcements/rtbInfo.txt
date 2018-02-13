@@ -1,0 +1,5 @@
+id: 2486
+icon: electricity
+type: Server Mods
+title: Announcements Mod
+version: 1
