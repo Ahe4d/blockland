@@ -1,0 +1,3 @@
+Name: Set Rank - Glass
+Author: Ahead
+Sets a player's rank letter and color. It's basically just a dedicated command for a Blockland Glass (hopefully you have it) feature.

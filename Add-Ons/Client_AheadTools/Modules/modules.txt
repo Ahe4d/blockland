@@ -1,0 +1,3 @@
+Ahead Client Tools - Modules
+
+Modules should always have their own folder and have a module.cs file inside. Think of it like creating add-ons.

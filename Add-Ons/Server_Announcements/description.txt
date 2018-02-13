@@ -1,0 +1,4 @@
+Title: Announcements Mod
+Author: Jamesking56, revised by Ahead
+This mod allows you to set Announcements in your server.
+Now featuring a BL_ID whitelist!
